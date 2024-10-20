@@ -3,7 +3,11 @@
 
 ![ReconSuite Logo](https://raw.githubusercontent.com/xReverseLabs/ReconSuite/main/screenshot/menu.png)
 
-**ReconSuite** is a powerful and efficient multi-tool for domain reconnaissance and network scanning. It combines several essential tools into one suite, providing fast and comprehensive results. Built with Go, ReconSuite leverages high-performance APIs from [xReverseLabs](https://xreverselabs.my.id) to deliver top-notch results for Reverse IP lookup, Subdomain scanning, Domain grabbing, and Proxy grabbing.
+**ReconSuite** is a powerful and efficient multi-tool for domain reconnaissance and network scanning. It combines several essential tools into one suite, providing fast and comprehensive results. Built with Go, ReconSuite leverages high-performance APIs from [xReverseLabs](https://xreverselabs.org) to deliver top-notch results for Reverse IP lookup, Subdomain scanning, Domain grabbing, and Proxy grabbing.
+
+## How ReconSuite Works
+
+![ReconSuite How It Works](https://raw.githubusercontent.com/xReverseLabs/ReconSuite/refs/heads/main/screenshot/howitworks.jpeg)
 
 ## Features
 
@@ -23,7 +27,7 @@
 
 2. **Configure API Key:**
 
-   add your API key from [xReverseLabs Clientarea](https://xreverselabs.my.id/clientarea/) to `config.json`
+   add your API key from [xReverseLabs Clientarea](https://xreverselabs.org/clientarea/) to `config.json`
 
    ```json
    {
@@ -96,5 +100,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- **[xReverseLabs](https://xreverselabs.my.id)** for providing the high-quality APIs that power this tool.
+- **[xReverseLabs](https://xreverselabs.org)** for providing the high-quality APIs that power this tool.
 - The Go community for creating such a powerful and efficient programming language.
